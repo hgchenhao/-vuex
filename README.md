@@ -80,7 +80,6 @@ mutation.js<br>
 ![](https://user-gold-cdn.xitu.io/2017/12/27/16097bd22124db45?w=366&h=232&f=jpeg&s=27535)
 #####
 action.js<br>
->>>>>>> 7c18fdc8dad0927b92ed6ada023b37e0db89da13
 ![](https://user-gold-cdn.xitu.io/2017/12/27/16097be9b98e6140?w=530&h=216&f=jpeg&s=38984)
 
 
