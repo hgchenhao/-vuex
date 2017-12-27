@@ -61,17 +61,17 @@ export default {
   }
 };
  ```
- >我的src是这样的：
+ >我的src是这样的：<br>
  ![](https://user-gold-cdn.xitu.io/2017/12/27/16097b65d55705b1?w=300&h=332&f=jpeg&s=25657)
- >index.js
+ >index.js<br>
  ![](https://user-gold-cdn.xitu.io/2017/12/27/16097b9580a8a552?w=554&h=433&f=jpeg&s=84293)
->state.js
+>state.js<br>
 ![](https://user-gold-cdn.xitu.io/2017/12/27/16097ba8a8f20049?w=361&h=258&f=jpeg&s=23751)
->getter.js
+>getter.js<br>
 ![](https://user-gold-cdn.xitu.io/2017/12/27/16097bcab4a3ae98?w=486&h=122&f=jpeg&s=26331)
->mutation.js
+>mutation.js<br>
 ![](https://user-gold-cdn.xitu.io/2017/12/27/16097bd22124db45?w=366&h=232&f=jpeg&s=27535)
->action.js
+>action.js<br>
 ![](https://user-gold-cdn.xitu.io/2017/12/27/16097be9b98e6140?w=530&h=216&f=jpeg&s=38984)
 
 
