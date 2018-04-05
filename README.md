@@ -95,7 +95,7 @@ npm run dev
 
 # build for production with minification
 
-npm run build. div1
+npm run build. div1111
 
 
 ```
