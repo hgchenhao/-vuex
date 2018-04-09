@@ -97,7 +97,7 @@ npm run dev111
 
 npm run build
 
-bbbpull
+bbb
 
 ```
 
