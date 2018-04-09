@@ -91,7 +91,7 @@ action.js<br>
 npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
+npm run dev222
 
 # build for production with minification
 
